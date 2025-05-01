@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 133,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Program.cs",
+              "RelativeDocumentMoniker": "29042025 Onboarding 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Program.cs",
+              "RelativeToolTip": "29042025 Onboarding 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:36:45.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

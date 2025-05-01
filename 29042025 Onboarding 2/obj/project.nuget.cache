@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8HUL/4wqOE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.app\\2.1.30\\microsoft.netcore.app.2.1.30.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.30\\microsoft.netcore.dotnetapphost.2.1.30.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.30\\microsoft.netcore.dotnethostpolicy.2.1.30.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.30\\microsoft.netcore.dotnethostresolver.2.1.30.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.14\\microsoft.netcore.platforms.2.1.14.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.support\\4.31.0\\selenium.support.4.31.0.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.webdriver\\4.31.0\\selenium.webdriver.4.31.0.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.webdriver.chromedriver\\135.0.7049.11400\\selenium.webdriver.chromedriver.135.0.7049.11400.nupkg.sha512"
+  ],
+  "logs": []
+}
