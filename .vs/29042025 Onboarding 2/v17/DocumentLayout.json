@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "29042025 Onboarding 2\\Program.cs",
               "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Program.cs",
               "RelativeToolTip": "29042025 Onboarding 2\\Program.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAQwJgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAIwO8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T06:36:45.655Z",
               "EditorCaption": ""
