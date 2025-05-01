@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.Events;
 using System.Threading;
 
 public class Program
@@ -123,6 +124,40 @@ public class Program
         IWebElement ConfirmAddButton4 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[2]/div/div[2]/div/div/div[3]/input[1]"));
         ConfirmAddButton4.Click();
         Thread.Sleep(2000);
+
+
+        //Part 2 
+        //Navigate and Identify Skills Tab and click on it 
+        IWebElement SkillsTab = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[1]/a[2]"));
+        SkillsTab.Click();
+        Thread.Sleep (500);
+
+        // Add Skill 1: Python - Beginner
+        IWebElement AddNewButtonSkill1 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/thead/tr/th[3]/div"));
+        AddNewButtonSkill1.Click();
+        Thread.Sleep(500);
+
+        IWebElement AddSkillsTextBox1 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/div/div[1]/input"));
+        AddSkillsTextBox1.Click();
+        Thread.Sleep(500);
+        AddSkillsTextBox1.SendKeys("Python");
+        
+        IWebElement SkillsLevelDropDown1 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/div/div[2]/select"));
+        SkillsLevelDropDown1.Click();
+
+        IWebElement BeginnerOption1 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/div/div[2]/select/option[2]"));
+        BeginnerOption1.Click();
+        Thread.Sleep(500);
+
+        IWebElement AddButtonClick1 = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/div/span/input[1]"));
+        AddButtonClick1.Click();
+        
+
+        //Add 1 st Skills as Python , beginner 
+
+
+
+
 
     }
 }
