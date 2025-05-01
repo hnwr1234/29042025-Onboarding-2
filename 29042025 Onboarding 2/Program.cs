@@ -239,8 +239,17 @@ public class Program
         AddButtonClick5.Click();
 
 
+        //Check if the Last Skill has been create successfully 
+        IWebElement GoToLastSkills = driver.FindElement(By.XPath("//*[@id=\"account-profile-section\"]/div/section[2]/div/div/div/div[3]/form/div[3]/div/div[2]/div/table/tbody[5]/tr/td[1]"));
 
-
+        if(GoToLastSkills.Text == "CSS")
+        {
+            Console.WriteLine("All languages and skills has been create successfully!Test is passed!!");
+        }
+        else
+        {
+            Console.WriteLine("All languages and skills has been create successfully!Test is failed.");
+        }
     }
 }
 
