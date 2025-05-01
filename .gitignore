@@ -1,0 +1,46 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Backup & log files
+*.log
+*.bak
+*.tmp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Rider project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Dotnet environment files
+*.dbmdl
+*.pidb
+*.svclog
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Windows thumbnail database files
+Thumbs.db
+
+# Others
+*.DS_Store
