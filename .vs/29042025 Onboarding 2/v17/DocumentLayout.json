@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\pages\\skillpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\pages\\languagepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|c:\\users\\raphael wong\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2\\29042025 onboarding 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CEE79FBB-E615-4F00-8219-87CD6A90127A}|29042025 Onboarding 2\\29042025 Onboarding 2.csproj|solutionrelative:29042025 onboarding 2\\29042025 onboarding 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LanguagePage.cs",
-              "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\LanguagePage.cs",
-              "RelativeDocumentMoniker": "29042025 Onboarding 2\\Pages\\LanguagePage.cs",
-              "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\LanguagePage.cs",
-              "RelativeToolTip": "29042025 Onboarding 2\\Pages\\LanguagePage.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T02:32:08.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\LoginPage.cs",
-              "RelativeDocumentMoniker": "29042025 Onboarding 2\\Pages\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\LoginPage.cs",
-              "RelativeToolTip": "29042025 Onboarding 2\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T02:30:25.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SkillPage.cs",
               "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\SkillPage.cs",
               "RelativeDocumentMoniker": "29042025 Onboarding 2\\Pages\\SkillPage.cs",
               "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Pages\\SkillPage.cs",
               "RelativeToolTip": "29042025 Onboarding 2\\Pages\\SkillPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T02:30:02.306Z",
+              "WhenOpened": "2025-05-06T03:07:30.406Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "29042025 Onboarding 2",
-              "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
-              "RelativeDocumentMoniker": "29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
-              "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
-              "RelativeToolTip": "29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-05T02:29:15.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Program.cs",
-              "RelativeDocumentMoniker": "29042025 Onboarding 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\Program.cs",
-              "RelativeToolTip": "29042025 Onboarding 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:36:45.655Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

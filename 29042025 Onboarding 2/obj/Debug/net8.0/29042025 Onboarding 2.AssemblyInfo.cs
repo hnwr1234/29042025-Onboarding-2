@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("29042025 Onboarding 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6005d49c24cbe50027b152a9c378c59b3feaeb50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6728cdb565514d831ead734ad7869b49ec2c17f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("29042025 Onboarding 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("29042025 Onboarding 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
