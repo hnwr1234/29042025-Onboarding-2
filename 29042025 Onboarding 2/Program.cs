@@ -28,12 +28,11 @@ public class Program
         SkillPage SkillPageObj = new SkillPage();
         SkillPageObj.AddSkillActions(driver);
 
-        
 
-        
+
+
     }
 }
-
 
 
 

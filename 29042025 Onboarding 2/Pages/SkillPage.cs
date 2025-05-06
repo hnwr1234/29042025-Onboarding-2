@@ -194,7 +194,7 @@ namespace _29042025_Onboarding_2.Pages
             }
             else
             {
-                Console.WriteLine("All languages and skills has been deleted successfully!Test is failed.");
+                Console.WriteLine("All languages and skills has not been deleted successfully!Test is failed.");
             }
 
         }

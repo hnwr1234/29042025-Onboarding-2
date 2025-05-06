@@ -331,7 +331,7 @@
           "build/NUnit.props": {}
         }
       },
-      "NUnit3TestAdapter/4.6.0": {
+      "NUnit3TestAdapter/4.3.2": {
         "type": "package",
         "build": {
           "build/netcoreapp3.1/NUnit3TestAdapter.props": {}
@@ -718,20 +718,20 @@
         "nunit.nuspec"
       ]
     },
-    "NUnit3TestAdapter/4.6.0": {
-      "sha512": "R7e1+a4vuV/YS+ItfL7f//rG+JBvVeVLX4mHzFEZo4W1qEKl8Zz27AqvQSAqo+BtIzUCo4aAJMYa56VXS4hudw==",
+    "NUnit3TestAdapter/4.3.2": {
+      "sha512": "R88Bj+VfPs4rqDtQM5oOVBF1FQz5ziGEirflry75JNm3sjLgHFWz+mI8JLh8wH9zKxMq/VRvF6Na4WgPWqgo4g==",
       "type": "package",
-      "path": "nunit3testadapter/4.6.0",
+      "path": "nunit3testadapter/4.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "build/net462/NUnit3.TestAdapter.dll",
-        "build/net462/NUnit3.TestAdapter.pdb",
-        "build/net462/NUnit3TestAdapter.props",
-        "build/net462/nunit.engine.api.dll",
-        "build/net462/nunit.engine.core.dll",
-        "build/net462/nunit.engine.dll",
-        "build/net462/testcentric.engine.metadata.dll",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
+        "build/net35/nunit.engine.dll",
+        "build/net35/testcentric.engine.metadata.dll",
         "build/netcoreapp3.1/NUnit3.TestAdapter.dll",
         "build/netcoreapp3.1/NUnit3.TestAdapter.pdb",
         "build/netcoreapp3.1/NUnit3TestAdapter.props",
@@ -739,10 +739,8 @@
         "build/netcoreapp3.1/nunit.engine.core.dll",
         "build/netcoreapp3.1/nunit.engine.dll",
         "build/netcoreapp3.1/testcentric.engine.metadata.dll",
-        "docs/README.md",
-        "nunit3testadapter.4.6.0.nupkg.sha512",
-        "nunit3testadapter.nuspec",
-        "nunit_256.png"
+        "nunit3testadapter.4.3.2.nupkg.sha512",
+        "nunit3testadapter.nuspec"
       ]
     },
     "Selenium.Support/4.31.0": {
@@ -832,7 +830,7 @@
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
       "Microsoft.NET.Test.Sdk >= 17.13.0",
       "NUnit >= 4.3.2",
-      "NUnit3TestAdapter >= 4.6.0",
+      "NUnit3TestAdapter >= 4.3.2",
       "Selenium.Support >= 4.31.0",
       "Selenium.WebDriver >= 4.31.0",
       "Selenium.WebDriver.ChromeDriver >= 135.0.7049.11400"
@@ -902,7 +900,7 @@
           },
           "NUnit3TestAdapter": {
             "target": "Package",
-            "version": "[4.6.0, )"
+            "version": "[4.3.2, )"
           },
           "Selenium.Support": {
             "target": "Package",

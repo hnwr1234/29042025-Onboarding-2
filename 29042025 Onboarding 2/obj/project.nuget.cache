@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vmts6Zrut8Y=",
+  "dgSpecHash": "FwIiLZ4f+HY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Raphael Wong\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2\\29042025 Onboarding 2.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\microsoft.testplatform.testhost\\17.13.0\\microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
-    "C:\\Users\\Raphael Wong\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\Raphael Wong\\.nuget\\packages\\nunit3testadapter\\4.3.2\\nunit3testadapter.4.3.2.nupkg.sha512",
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.support\\4.31.0\\selenium.support.4.31.0.nupkg.sha512",
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.webdriver\\4.31.0\\selenium.webdriver.4.31.0.nupkg.sha512",
     "C:\\Users\\Raphael Wong\\.nuget\\packages\\selenium.webdriver.chromedriver\\135.0.7049.11400\\selenium.webdriver.chromedriver.135.0.7049.11400.nupkg.sha512",
